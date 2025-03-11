@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jerichomc/weatherApi/static/css/main.c0890bc7.css",
+    "main.js": "/jerichomc/weatherApi/static/js/main.c623ee0a.js",
+    "index.html": "/jerichomc/weatherApi/index.html",
+    "main.c0890bc7.css.map": "/jerichomc/weatherApi/static/css/main.c0890bc7.css.map",
+    "main.c623ee0a.js.map": "/jerichomc/weatherApi/static/js/main.c623ee0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0890bc7.css",
+    "static/js/main.c623ee0a.js"
+  ]
+}
